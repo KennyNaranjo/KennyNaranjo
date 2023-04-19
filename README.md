@@ -1,7 +1,7 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Kenny</h1>
-    <h3 align="center">A passionate web fullstack developer from Spain.
+    <h3 align="center">i'm fullstack developer from Spain.
         
 </div>
 
@@ -24,7 +24,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind--original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
 
